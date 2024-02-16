@@ -194,7 +194,6 @@
     <Compile Include="carrello.aspx.designer.cs">
       <DependentUpon>carrello.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Carrello.cs" />
     <Compile Include="default.aspx.cs">
       <DependentUpon>default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
